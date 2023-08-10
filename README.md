@@ -30,6 +30,9 @@ Having signed up on Lemonsqueezy, you'll be able to access your license as part 
 3. You should be able to find the `Visit the Microsoft Teams admin center` link. Click on that.
 ![Admin Settings](/images/admin-settings.png)
 ### Change your message policies
-1. Once you are on the Microsoft Teams admin center page, click on Messages on the left. Click on Messaging polices. Finally, in the main window, click on the `Global (Org-wide default)` link.
+Once you are on the Microsoft Teams admin center page, click on Messages on the left. Click on Messaging polices. Finally, in the main window, click on the `Global (Org-wide default)` link.
 
 ![message policies](/images/message-policies.png)
+
+### Toggle Owners can delete sent messages to On
+![toggle global delete on](/images/toggle-global-delete-on.png)
