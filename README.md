@@ -11,6 +11,8 @@ If you are an admin user, ie. Global Administrator, you can delete other people'
 Click on the "Login via Teams" button. It'll ask you to grant a set of permissions from Teams in ordcer for the extension to remove messages for you.
 
 ### Get a license
+![sign up](/images/sign-up.png)
+
 Click on "Sign Up" and it will bring you to the sign up page on Lemonsqueezy.
 Having signed up on Lemonsqueezy, you'll be able to access your license as part of the sign up flow. Also, your license will arrive in your inbox shortly.
 
