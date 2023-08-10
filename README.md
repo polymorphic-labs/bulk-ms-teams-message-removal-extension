@@ -17,6 +17,7 @@ Click on "Sign Up" and it will bring you to the sign up page on Lemonsqueezy.
 Having signed up on Lemonsqueezy, you'll be able to access your license as part of the sign up flow. Also, your license will arrive in your inbox shortly.
 
 ### Let's bulk delete some messages
+![app](/images/bulk-teams-message-removal.png)
 
 1. Select a Team.
 2. Select a private/public channel.
