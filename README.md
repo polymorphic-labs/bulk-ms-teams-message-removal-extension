@@ -21,7 +21,7 @@ Having signed up on Lemonsqueezy, you'll be able to access your license as part 
 
 1. Select a Team.
 2. Select a private/public channel.
-3. Select the user(s) whoses messages you'd like delete. If you are a normal user, ie. without admin permissions, you can only delete your own message. If you are an admin and would like to delete others' messages, you'll first need to turn on the option to do so. Follow these instructions [here](#visit-the-microsoft-teams-admin-center)
+3. Select the user(s) whose messages you'd like to delete. If you are a normal user, ie. without admin permissions, you can only delete your own message. If you are an admin and would like to delete others' messages, you'll first need to turn on the option to do so. Follow these instructions [here](#visit-the-microsoft-teams-admin-center)
 
 ## Turn on admin's wider message deletion capability
 ### Visit the Microsoft Teams admin center
